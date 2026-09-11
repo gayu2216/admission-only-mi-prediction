@@ -204,7 +204,6 @@ The FT-Transformer configuration used by the notebook includes:
 
 - The raw clinical dataset is **not** included in the repository.
 - The notebook performs fold-safe median imputation and standardization using the training portion of each fold.
-- No SMOTE is used in the FT-Transformer experiments.
 - O2 is modeled conditionally on death and coupled to the mortality head probabilistically.
 - The repository contains the computational notebook; the paper remains the authoritative source for the final scientific interpretation and reported results.
 
