@@ -83,15 +83,10 @@ The analysis is repeated across the four time windows.
 
 ```text
 .
-├── data/
-│   ├── README.md
-│   └── .gitkeep
 ├── docs/
 │   └── architecture.png
 ├── notebooks/
 │   └── MI_multitask_FT_Transformer_experiments.ipynb
-├── results/
-│   └── .gitkeep
 ├── .gitignore
 ├── requirements.txt
 └── README.md
